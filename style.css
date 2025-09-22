@@ -112,3 +112,11 @@ header p {
 	margin: 0 auto;
 	opacity: 0.95;
 }
+
+/* Remove or comment out this override to fix Bootstrap grid columns */
+/*
+.row {
+  display: flex !important;
+  flex-wrap: wrap;
+}
+*/
